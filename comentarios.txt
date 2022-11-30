@@ -1,0 +1,1 @@
+A estrutura existe para realizarmos um CRUD de marcas e modelos tambem, entretanto realizemos somente o CRUD das cores, pois esta era a proposta
